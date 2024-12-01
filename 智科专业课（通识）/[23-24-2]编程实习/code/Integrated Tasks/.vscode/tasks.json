@@ -1,0 +1,36 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C-StarterKit: 生成活动文件",
+            "command": "gcc.exe",
+            "args": [
+                "-pipe",
+                "-fdiagnostics-color=always",
+                "-g",
+                "${file}",
+                "-lstdc++",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}",
+                "env": {
+                    "PATH": "${command:c-starter-kit.get-dist-path}/mingw64/mingw64/bin/;${env:PATH}",
+                    "TMP": "${workspaceFolder}/.vscode/",
+                    "TEMP": "${workspaceFolder}/.vscode/",
+                    "LC_ALL": "zh_CN.GBK"
+                }
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "由 C/C+ 小助手自动生成，请不要修改。"
+        }
+    ],
+    "version": "2.0.0"
+}
