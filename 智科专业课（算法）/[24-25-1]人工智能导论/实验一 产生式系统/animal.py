@@ -55,7 +55,7 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "动物识别系统 Powered by Li Jinxuan(23061922)"))
+        Form.setWindowTitle(_translate("Form", "动物识别系统 Powered by Arisu Shiro)"))
         self.label.setText(_translate("Form", "输入事实"))
         self.label_2.setText(_translate("Form", "显示推理结果"))
         self.pushButton.setText(_translate("Form", "进行推理"))
