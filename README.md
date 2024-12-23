@@ -6,7 +6,7 @@
 ### 听君一席话，胜似一席话，简而言之———
 
 &emsp;&emsp;算法要学、软件要学、硬件要学，什么都沾。但可想而知，什么都没学透。所谓“术业有专攻”亦是这样的道理。
-<br />&emsp;&emsp;参考阅读：[《离年薪百万最近的大学专业，正在沦为新“天坑”》](https://mp.weixin.qq.com/s/03NkQEAWoOweA7dc1evO0g)
+### 参考阅读：[《离年薪百万最近的大学专业，正在沦为新“天坑”》](https://mp.weixin.qq.com/s/03NkQEAWoOweA7dc1evO0g)
 
 ## Author是谁？为什么开设该仓库？
 &emsp;&emsp;Author: 23级智科专业牛马本科生一枚。
